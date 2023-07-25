@@ -1,4 +1,4 @@
-package com.codewars.kata;
+package com.codewars.kata.KYU_7;
 
 public class KYU_7_Isograms {
 

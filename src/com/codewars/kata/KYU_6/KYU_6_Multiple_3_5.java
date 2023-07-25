@@ -1,4 +1,4 @@
-package com.codewars.kata;
+package com.codewars.kata.KYU_6;
 
 public class KYU_6_Multiple_3_5 {
 

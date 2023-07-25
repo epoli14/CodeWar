@@ -1,4 +1,4 @@
-package com.codewars.kata;
+package com.codewars.kata.KYU_7;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;

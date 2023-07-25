@@ -1,4 +1,4 @@
-package com.codewars.kata;
+package com.codewars.kata.KYU_8;
 
 public class KYU_8_RemoveStringSpace {
 
