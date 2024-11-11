@@ -9,5 +9,6 @@ public class IsitEven {
         Predicate<Double> isItEven = n -> n % 2 == 0;
 
         System.out.println(isItEven.test(1.0));
+
     }
 }

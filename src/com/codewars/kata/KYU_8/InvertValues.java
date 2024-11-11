@@ -14,5 +14,10 @@ public class InvertValues {
             System.out.println(nums[j]);
         }
 
+        for (int j = 1; j < 17; j++){
+            System.out.println(j + " - ");
+        }
+
+
     }
 }
